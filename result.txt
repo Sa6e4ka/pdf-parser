@@ -1,0 +1,73 @@
+Ionics (2013) 19:221–226
+DOI 10.1007/s11581-012-0733-9
+ORIGINAL PAPER
+Electrochemical performance of modified artificial graphite
+as anode material for lithium ion batteries
+Chunmei Wang & Hailei Zhao & Jing Wang & Jie Wang &
+Pengpeng Lv
+Received: 29 March 2012 / Revised: 28 April 2012 / Accepted: 1 May 2012 / Published online: 15 May 2012
+# Springer-Verlag 2012
+desirable charge potential profile, excellent cyclability, and
+good safety feature since the invention of lithium ion re-
+chargeable batteries in the early 1990s. However, its low
+theoretical capacity (372 mAhg−1) cannot satisfy the in-
+creasing requirements of the electronic devices and electric
+vehicles to the batteries. Besides, the drawbacks related to
+graphite, such as cointercalation phenomenon of solvent
+molecules and anisotropic structure feature, limit its electro-
+chemical performance. The former can result in exfoliation
+of graphite and thereby cause the consequent destruction of
+the graphite structure. This prevents the use of small mole-
+cule solvent with high ionic conductivity. The latter restricts
+the random diffusion of lithium ions into the graphite struc-
+ture. Both of them limit the rate capability of graphite anode.
+Moreover, large initial irreversible capacity loss is another
+serious problem for graphite anode, which is mainly caused
+by the complex and imperfect surface structure, such as sp3-
+hybridized carbon, carbon chains, and edge carbon [1].
+Many works have been carried out to improve the electro-
+chemical performance of graphite anode, such as employing
+smaller particles [2], preparing graphite/nanopowder com-
+posite [3–5], and oxidizing or purifying the graphite [6–9].
+Recently, a lot of research findings have confirmed that
+cycling performance and rate capability can be improved
+by surface coating with amorphous carbon [10–13].
+Abstract Artificial graphite anode material was modified
+by coating an amorphous carbon layer on the particle sur-
+face via a sol-gel and pyrolysis route. The electrochemical
+measurements demonstrate that appropriate carbon coating
+can increase the specific capacity and the initial coulombic
+efficiency of the graphite material, while excessive carbon
+coating leads to the decrease in specific capacity. Thick
+coating layer is obviously unfavorable for the lithium ion
+diffusion due to the increased diffusion distance, but the
+decreased specific surface area caused by carbon coating is
+beneficial to the decrease of initial irreversible capacity loss.
+The sample coated with 5 wt.% glucose exhibits a stable
+specific capacity of 340 mAhg−1. Carbon coating can re-
+markably enhance the rate capability of the graphite anode
+material, which is mainly attributed to the increased diffu-
+sion coefficient of lithium ion.
+Keywords Li ion batteries . Electrodes . Anodes .
+Electrochemical characterizations
+Introduction
+Artificial graphite (noted as AGP) has been widely used as
+an anode material for lithium ion batteries due to its
+Compared with graphite, amorphous carbon has an iso-
+tropic feature, which enables lithium ions to transport inside
+randomly and thereby exhibits a good rate capability. Be-
+sides, amorphous carbon shows minor volume change dur-
+ing charge/discharge process [14, 15] and thus has a good
+cyclic performance. Therefore, surface modification by
+coating amorphous carbon is as an effective approach to
+improve the electrochemical performance of graphite. Re-
+cently, many works have been reported, which focused
+mainly on the effect of carbon precursor [16, 17], coating
+C. Wang : H. Zhao (*) : J. Wang : J. Wang : P. Lv
+School of Materials Science and Engineering,
+University of Science and Technology Beijing,
+Beijing 100083, China
+e-mail: hlzhao@ustb.edu.cn
+H. Zhao
+Beijing Key Lab of New Energy Materials and Technology,
+Beijing 100083, China
